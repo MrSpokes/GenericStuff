@@ -1,7 +1,7 @@
 title: GenericStuff
 description: GenericStuff is a group of Luau ModuleScripts for doing all kinds of stuff.
 show_downloads: true
-remote_theme: MrSpokes/GenericStuff/siteTest
+theme: jekyll-theme-cayman
 color:
   header: "#fff"
   gradient_left: "#010332"
