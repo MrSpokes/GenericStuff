@@ -1,10 +1,20 @@
-theme: jekyll-theme-cayman
+title: GenericStuff
+description: GenericStuff is a group of Luau ModuleScripts for doing all kinds of stuff.
+show_downloads: true
 darkmode: true
-hide_first_title: false
-colors:
-    gradient_left: "#010332"
-    gradient_right: "#530005"
-    header: "#fff"
-    android_theme: "#000"
-    link: "#1e6bb8"
-    section_title: "#010332"
+remote_theme: tuur29/pages-themes-cayman
+color:
+  header: "#fff"
+  gradient_left: "#010332"
+  gradient_right: "#530005"
+  link: "#1e6bb8"
+  section_title: "#fff"
+syntax_theme: https://stylishthemes.github.io/Syntax-Themes/pygments/css-github/pygments-monokai.css
+buttons:
+  zip_url: https://github.com/MrSpokes/GenericStuff
+  zip_title: View Documentation
+  zip_hide: false
+  tar_url: https://create.roblox.com/store/asset/119128128253601/GenericCache-V00?tab=description
+  tar_title: View Model
+  tar_hide: false
+  github_hide: false
