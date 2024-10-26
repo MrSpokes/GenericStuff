@@ -1,15 +1,15 @@
-title: Custom Cayman theme
-description: Cayman is a clean, responsive theme for GitHub Pages.
+title: GenericStuff
+description: GenericStuff is a group of Luau ModuleScripts for doing all kinds of stuff.
 show_downloads: true
 remote_theme: tuur29/pages-themes-cayman
 color:
   header: "#000"
-  gradient_left: "#e53935"
-  gradient_right: "#f57c00"
+  gradient_left: "#010332"
+  gradient_right: "#530005"
 logo_url: https://github.githubassets.com/images/icons/emoji/octocat.png
 syntax_theme: https://stylishthemes.github.io/Syntax-Themes/pygments/css-github/pygments-monokai.css
 buttons:
-  zip_url: https://github.com/tuur29/pages-themes-cayman
+  zip_url: https://github.com/MrSpokes/GenericStuff
   zip_title: View Documentation
   zip_hide: false
   tar_hide: true
