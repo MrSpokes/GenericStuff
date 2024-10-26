@@ -7,6 +7,8 @@ color:
   header: "#fff"
   gradient_left: "#010332"
   gradient_right: "#530005"
+  link: "#1e6bb8"
+  section_title: "#ffffff"
 syntax_theme: https://stylishthemes.github.io/Syntax-Themes/pygments/css-github/pygments-monokai.css
 buttons:
   zip_url: https://github.com/MrSpokes/GenericStuff
