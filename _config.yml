@@ -1,1 +1,8 @@
 theme: jekyll-theme-cayman
+darkmode: true
+colors:
+ gradient_left: "#155799"
+ gradient_right: "#159957"
+
+title: GenericStuff Documentation
+description: Documentation for GenericStuff
