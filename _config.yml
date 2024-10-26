@@ -6,3 +6,6 @@ color:
   header: "#fff"
   gradient_left: "#010332"
   gradient_right: "#530005"
+  android_theme: "#fff"
+  link: "#1e6bb8"
+  section_title: "#fff"
