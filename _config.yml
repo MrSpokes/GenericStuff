@@ -1,12 +1,12 @@
 title: GenericStuff
 description: GenericStuff is a group of Luau ModuleScripts for doing all kinds of stuff.
 show_downloads: true
+darkmode: true
 remote_theme: tuur29/pages-themes-cayman
 color:
   header: "#fff"
   gradient_left: "#010332"
   gradient_right: "#530005"
-logo_url: https://github.githubassets.com/images/icons/emoji/octocat.png
 syntax_theme: https://stylishthemes.github.io/Syntax-Themes/pygments/css-github/pygments-monokai.css
 buttons:
   zip_url: https://github.com/MrSpokes/GenericStuff
