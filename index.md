@@ -1,4 +1,4 @@
 ---
 layout: default
 ---
-This is a thingy thingy
+This is the GenericStuff Homepage
