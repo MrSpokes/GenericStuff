@@ -1,7 +1,10 @@
 theme: jekyll-theme-cayman
+darkmode: ture
+hide_first_title: false
 colors:
- gradient_left: "#010332"
- gradient_right: "#530005"
-
-title: GenericStuff Documentation
-description: Documentation for GenericStuff
+    gradient_left: "#010332"
+    gradient_right: "#530005"
+    header: "#fff"
+    android_theme: "#000"
+    link: "#1e6bb8"
+    section_title: "#010332"
