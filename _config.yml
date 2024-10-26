@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
-darkmode: ture
+darkmode: true
 hide_first_title: false
 colors:
     gradient_left: "#010332"
