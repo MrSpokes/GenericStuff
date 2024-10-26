@@ -1,9 +1,7 @@
 ---
 ---
 
-{% if site.darkmode %}
 @import 'darkmode';
-{% endif %}
 
 // Breakpoints
 $large-breakpoint: 64em !default;
