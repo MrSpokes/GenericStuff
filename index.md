@@ -1,4 +1,4 @@
 ---
 layout: default
 ---
-This is a thing
+This is a thingy thingy
