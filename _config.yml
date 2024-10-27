@@ -10,3 +10,8 @@ color:
   android_theme: "#fff"
   link: "#1e6bb8"
   section_title: "#fff"
+header_pages:
+  - index.md
+  - docs.md
+  - api.md
+  - changelog.md
